@@ -2,7 +2,8 @@
     "name": "Lent MADPID project - Tommy Molnar",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "corgio": "*"
     },
     "files": [
         "main.blocks",
